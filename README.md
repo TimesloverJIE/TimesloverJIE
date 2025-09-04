@@ -54,5 +54,3 @@ I am a sophomore at Huazhong University of Science and Technology, pursuing a ch
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TimesloverJIE&show_icons=true&theme=graywhite&hide_border=true" alt="GitHub Stats" />
 </p>
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=TimesloverJIE&theme=xcode" /> </div>
